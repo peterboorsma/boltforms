@@ -75,7 +75,7 @@ file_upload_form:
         subdirectory: file_upload_dir  # Optional subdirectory
     fields:
         upload:
-            type: file
+            type: image
             options:
                 required: false
                 label: Picture of your pet that you want us to add to our site
